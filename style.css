@@ -1,8 +1,8 @@
-div p:first-child{
+div:first-child p:first-child{
     background-color: rgb(255, 252, 77);
     color:red;
 }
-div{
+div:first-child{
     background-color: rgb(49, 56, 255);
     color:white;
 }

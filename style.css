@@ -1,3 +1,13 @@
-*{
-    
+div p:first-child{
+    background-color: rgb(255, 252, 77);
+    color:red;
+}
+div{
+    background-color: rgb(49, 56, 255);
+    color:white;
+}
+
+div p:nth-child(5){
+
+color: rgb(255, 101, 101);
 }
